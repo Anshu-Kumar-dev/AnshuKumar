@@ -1,4 +1,4 @@
-[![MasterHead](https://as1.ftcdn.net/jpg/07/11/26/60/1000_F_711266053_vk4mgNhKyUXqFgxEuQ8xOQkKQ03fg7Vj.jpg)]
+![MasterHead](https://as1.ftcdn.net/jpg/07/11/26/60/1000_F_711266053_vk4mgNhKyUXqFgxEuQ8xOQkKQ03fg7Vj.jpg)
 
 <h1 align="center">Hi 👋, I'm Anshu Kumar</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
