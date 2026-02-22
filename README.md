@@ -1,18 +1,18 @@
 ![MasterHead](https://as1.ftcdn.net/jpg/07/11/26/60/1000_F_711266053_vk4mgNhKyUXqFgxEuQ8xOQkKQ03fg7Vj.jpg)
 
 <h1 align="center">Hi 👋, I'm Anshu Kumar</h1>
-<h3 align="center">A passionate Data Analyst from India</h3>
+<h3 align="center">A passionate Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshukumar&label=Profile%20views&color=0e75b6&style=flat" alt="anshukumar" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Sql_Project**
+- 🔭 I’m currently working on **Python_Project**
 
-- 🌱 I’m currently learning **Data Analyst**
+- 🌱 I’m currently learning **Development**
 
-- 💬 Ask me about **Excel, Sql, Power BI, Python**
+- 💬 Ask me about **Python, Sql, Web Dev**
 
 - 📫 How to reach me **anshukumarak9382@gmail.com**
 
