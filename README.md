@@ -1,4 +1,4 @@
-![MasterHead](https://as1.ftcdn.net/jpg/07/11/26/60/1000_F_711266053_vk4mgNhKyUXqFgxEuQ8xOQkKQ03fg7Vj.jpg)
+<img width="1584" height="396" alt="Black and White Illustrative Linkedin Banner" src="https://github.com/user-attachments/assets/f0118db5-1625-4736-abca-a0cf5d7bb1a2" />
 
 <h1 align="center">Hi 👋, I'm Anshu Kumar</h1>
 <h3 align="center">A passionate Developer from India</h3>
